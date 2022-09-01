@@ -3,15 +3,20 @@ font-size: 22px
 }
 
 body {
-background-color: #2e4053;
-color: whitesmoke;
+background-color:#546e7a;
+color: white;
 text-align:center;
 }
 
 
 h1 {
-  font-family:URW Chancery L, cursive;
-color:Orange
+  font-family:American Typewriter, serif;
+  color:Orange;
+  text-shadow:2px 2px 0 floralwhite,4px 4px 9px grey;
+
+  h2 {
+     text-shadow:2px 2px 0 grey;
+  }
 }
 img {
 width:180px;
